@@ -1,0 +1,27 @@
+What is machine learning?
+A subset of artificial intelligence (AI), machine learning (ML) is the area of computational science that focuses on analyzing and interpreting patterns 
+and structures in data to enable learning, reasoning, and decision making outside of human interaction. Simply put, machine learning allows the user to 
+feed a computer algorithm an immense amount of data and have the computer analyze and make data-driven recommendations and decisions based on only the 
+input data. If any corrections are identified, the algorithm can incorporate that information to improve its future decision making
+HOW DOES MACHINE LEARNING WORK?
+Machine learning is made up of three parts:
+	•	The computational algorithm at the core of making determinations.
+	•	Variables and features that make up the decision.
+	•	Base knowledge for which the answer is known that enables (trains) the system to learn.
+Initially, the model is fed parameter data for which the answer is known. The algorithm is then run, and adjustments are made until the algorithm’s 
+output (learning) agrees with the known answer. At this point, increasing amounts of data are input to help the system learn and process higher computational 
+decisions
+WHY IS MACHINE LEARNING IMPORTANT?
+Data is the lifeblood of all business. Data-driven decisions increasingly make the difference between keeping up with competition or falling further behind. 
+Machine learning can be the key to unlocking the value of corporate and customer data and enacting decisions that keep a company ahead of the competition.
+MACHINE LEARNING USE CASES
+Advancements in AI for applications like natural language processing (NLP) and computer vision (CV) are helping industries like financial services, 
+healthcare, and automotive accelerate innovation, improve customer experience, and reduce costs. Machine learning has applications in all types of 
+industries, including manufacturing, retail, healthcare and life sciences, travel and hospitality, financial services, and energy, feedstock, and utilities. 
+Use cases include: 
+	•	Manufacturing. Predictive maintenance and condition monitoring
+	•	Retail. Upselling and cross-channel marketing
+	•	Healthcare and life sciences. Disease identification and risk satisfaction
+	•	Travel and hospitality. Dynamic pricing
+	•	Financial services. Risk analytics and regulation
+	•	Energy. Energy demand and supply optimization 
